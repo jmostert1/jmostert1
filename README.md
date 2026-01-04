@@ -10,7 +10,7 @@ I'm Josh, a student at Brigham Young University-Idaho interested in Development.
   
 ## Technologies and Tools
 - Proficient in: Python, C+, Delphi, HTML5, JavaScript, CSS, ASP.NET, Git, Node.js, and use of AI
-- Skills: Good ideas, Adaptable, Pay Attention to Detail, and Team builder and Contributor
+- Skills: Good ideas, Adaptable, Attention to Detail, and Team Player and Contributor
   
 ## Projects
 - Some of my key projects i have worked on are:
