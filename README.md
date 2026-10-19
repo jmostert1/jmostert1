@@ -12,10 +12,12 @@ I'm Josh, a recent Software Development graduate. Welcome to my GitHub profile!
 - Skills: Good ideas, Adaptable, Attention to Detail, and Team Player and Contributor
   
 ## Projects
-- Some of my key projects I have worked on through university are:
+- Some of my key projects I have worked on are:
 - https://github.com/jmostert1/CSE-340
 - https://github.com/jmostert1/ConstructionCostEstimator
+- https://github.com/jmostert1/Console_App
+- https://github.com/jmostert1/Database-Implementation
+- https://github.com/jmostert1/clouddb
   
-
 ## Let's Connect!
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
