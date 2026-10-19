@@ -8,7 +8,7 @@ I'm Josh, a recent Software Development graduate. Welcome to my GitHub profile!
 - Diligent and devoted to the IT world with a special enjoyment for the software development side.
   
 ## Technologies and Tools
-- Proficient in: Python, C+, Delphi, HTML5, JavaScript, CSS, ASP.NET, Git, Node.js, and use of AI
+- Proficient in: Python, C#, Delphi, HTML5, JavaScript, CSS, ASP.NET, Git, Node.js, and use of AI
 - Skills: Good ideas, Adaptable, Attention to Detail, and Team Player and Contributor
   
 ## Projects
