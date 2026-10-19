@@ -8,7 +8,7 @@ I'm **Joshua Mostert**, a Software Development graduate passionate about buildin
 - Strong focus on adaptability, teamwork, and attention to detail  
 
 ## 🛠️ Technologies & Tools
-**Languages:** Python, C++, Delphi, HTML5, JavaScript, CSS  
+**Languages:** Python, C#, Delphi, HTML5, JavaScript, CSS  
 **Frameworks:** ASP.NET, Node.js  
 **Tools:** Git, AI integration  
 
