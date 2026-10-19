@@ -19,11 +19,6 @@ I'm **Joshua Mostert**, a Software Development graduate passionate about buildin
 - [Database-Implementation](https://github.com/jmostert1/Database-Implementation) – Database CRUD project  
 - [clouddb](https://github.com/jmostert1/clouddb) – Cloud database integration  
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jmostert1&show_icons=true&theme=radical)
-
 ## 🤝 Let's Connect
-- [LinkedIn](https://linkedin.com/in/your-link)  
-- [Portfolio](https://your-portfolio-link.com)  
-- Email: your.email@example.com  
+- Email: joshuamostert1@gmail.com
 
